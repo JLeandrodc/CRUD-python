@@ -1,0 +1,7 @@
+001;Usuário: José Leandro; Ação: Consulta; data: 10/6/2023; Hora:17:28:56
+002;Usuário: José Leandro; Ação: Registro; data: 10/6/2023; Hora:17:28:56
+003;Usuário: José Leandro; Ação: Editar; data: 10/6/2023; Hora:17:28:56
+004;Usuário: José Leandro; Ação: Excluir; data: 10/6/2023; Hora:17:28:56
+005;Usuário: José Leandro; Ação: MTC; data: 10/6/2023; Hora:17:28:56
+007;Usuário: José Leandro; Ação: Editar; data: 10/6/2023; Hora:17:30:48
+008;Usuário: José Leandro; Ação: Editar; data: 10/6/2023; Hora:17:32:27
